@@ -133,4 +133,8 @@
 ---
 
 ## W7 – বাকি ধাপ (এখানে আপডেট হবে)
-- B6 (বানানো চলছে) → B6P → B6K → B7 → erledigt।
+- B6 বানানো শেষ ✅। আমার নিজের যাচাই: leiter_diff ঠিক আছে, DB-SELECT রিপোর্টের সঙ্গে মেলে।
+  - সব ১০টাই erklaerungen।
+  - 0759-এ interne_links_zu বসেছে: eds-0632, zns-0728, ale-0248।
+- B6P (যাচাই চলছে) → B6K → B7 → erledigt।
+- নতুন ale-8 প্রার্থী: 0775 (তারিখে Jungfrau, বিষয়ে Fische), 0785 (তারিখে Waage, বিষয়ে Jungfrau)।
