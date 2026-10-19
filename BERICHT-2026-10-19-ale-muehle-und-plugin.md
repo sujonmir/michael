@@ -136,5 +136,19 @@
 - B6 বানানো শেষ ✅। আমার নিজের যাচাই: leiter_diff ঠিক আছে, DB-SELECT রিপোর্টের সঙ্গে মেলে।
   - সব ১০টাই erklaerungen।
   - 0759-এ interne_links_zu বসেছে: eds-0632, zns-0728, ale-0248।
-- B6P (যাচাই চলছে) → B6K → B7 → erledigt।
+- B6P শেষ ✅ (ok: 0753, 0785, 0800, 0801, 0810; Befunde: 0759, 0764, 0775, 0782, 0805)।
+- B6K শেষ ✅। আমার যাচাই: leiter_diff ঠিক আছে। পরিবর্তনগুলো:
+  - 0782 phase 3
+  - 0775 phase 5
+  - 0805 themen_pos 6, testimonial i4
+  - 0759 testimonial i4
+  - 0801-এর tag „Erschöpfung" বাদ দিয়ে „Wandel"
+  - 0753 mission 3
+  - বাকিগুলো „ohne Änderung" স্ট্যাম্প পেয়েছে।
+- **B7 চলছে** → তারপর erledigt।
+- নতুন প্রশ্ন:
+  - 0764 Erklärung নাকি Wegstation?
+  - eds-0071 (শুধু ড্রাফট) কি 0759-এর লিংক হিসেবে যাবে?
+  - 0805 testimonial i4 „Black Goo" অংশের কাছাকাছি, ঠিক আছে কি?
+  - স্পর্শকাতর পোস্টে Stimmen কি শুধু ওই অনুচ্ছেদের আশেপাশে বাদ যাবে, নাকি পুরো পোস্টে?
 - নতুন ale-8 প্রার্থী: 0775 (তারিখে Jungfrau, বিষয়ে Fische), 0785 (তারিখে Waage, বিষয়ে Jungfrau)।
